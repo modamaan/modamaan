@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on freelancer
+- 🌱 I’m currently learning software development/AI/ML
+- 📫 How to reach me: ...
+- Link to [Instagram](https://www.instagram.com/_mohamed_amaan_/)
+- Link to [Profile](modamaan.github.io/Profile_t/)
+- Link to [Linkedin](https://www.linkedin.com/in/mohamedamaan319/)
+
 <!--
 **modamaan/modamaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
