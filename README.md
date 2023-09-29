@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on freelancer
 - 🌱 I’m currently learning software development/AI/ML
 - 📫 How to reach me: ...
+- <a href="https://app.daily.dev/mohamedamaan"><img src="https://api.daily.dev/devcards/7a5e586443144576a9fd85758f6b7c85.png?r=eoi" width="400" alt="Mohamed amaan's Dev Card"/></a>
 - Link to [Instagram](https://www.instagram.com/_mohamed_amaan_/)
 - Link to [Profile](https://modamaan.github.io/Profile_t/)
 - Link to [Linkedin](https://www.linkedin.com/in/mohamedamaan319/)
